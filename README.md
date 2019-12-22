@@ -1,13 +1,16 @@
 # simple_composer_package
 It's no use
-##html
+
+
+
+html
 ```
 	<form action="water" method="post" enctype="multipart/form-data">
 		<label for="">原图<input id="img" type="file" name="img"></label>
 		<button type="submit">确定</button>		
 	</form>
  ```
-##php
+php
 ```
 <?php
   use Ller\WaterMark\Water;
