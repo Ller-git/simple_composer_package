@@ -1,0 +1,17 @@
+{
+    "name": "ller/watermark",
+    "description": "watermark",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ller-git",
+            "email": "1846290637@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ller\\WaterMark\\" : "src/"
+        }
+    }
+}
